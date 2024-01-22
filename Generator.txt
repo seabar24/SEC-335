@@ -1,0 +1,117 @@
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.2.0                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: generatorvt.com 
+
+
+[93m[!] Missing API key for binaryedge. [0m
+
+[93m[!] Missing API key for Censys ID and/or Secret. [0m
+
+[93m[!] Missing API key for fullhunt. [0m
+
+[93m[!] Missing API key for Github. [0m
+
+[93m[!] Missing API key for Hunter. [0m
+
+[93m[!] Missing API key for Intelx. [0m
+
+[93m[!] Missing API key for PentestTools. [0m
+
+[93m[!] Missing API key for ProjectDiscovery. [0m
+
+[93m[!] Missing API key for RocketReach. [0m
+
+[93m[!] Missing API key for Securitytrail. [0m
+
+[93m[!] Missing API key for virustotal. [0m
+
+[93m[!] Missing API key for zoomeye. [0m
+An exception has occurred: Cannot serialize non-str key None
+[94m[*] Searching Anubis. 
+An exception has occurred: Cannot connect to host dns.bufferover.run:443 ssl:<ssl.SSLContext object at 0x7feb48280640> [Name or service not known]
+	Searching 0 results.
+[94m[*] Searching Bing. 
+[94m[*] Searching Baidu. 
+	Searching results.
+[94m[*] Searching Certspotter. 
+[94m[*] Searching CRTsh. 
+[94m[*] Searching Duckduckgo. 
+[94m[*] Searching Hackertarget. 
+[94m[*] Searching Otx. 
+[94m[*] Searching Dnsdumpster. 
+[94m[*] Searching Qwant. 
+An exception has occurred: Cannot connect to host api.sublist3r.com:443 ssl:<ssl.SSLContext object at 0x7feb48b54340> [Connection refused]
+[94m[*] Searching Sublist3r. 
+An exception has occurred: Cannot connect to host www.threatcrowd.org:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.threatcrowd.org'. (_ssl.c:997)")]
+string indices must be integers
+[94m[*] Searching Threatcrowd. 
+[94m[*] Searching Rapiddns. 
+[94m[*] Searching Urlscan. 
+[94m[*] Searching Threatminer. 
+An exception has occurred: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://sonar.omnisint.io/all/generatorvt.com?page=1')
+[94m[*] Searching Omnisint. 
+
+[*] ASNS found: 1
+--------------------
+AS398101
+
+[*] Interesting Urls found: 1
+--------------------
+https://generatorvt.com/
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 5
+-------------------
+50.62.255.176
+104.21.57.80
+165.227.218.125
+172.67.189.178
+
+[*] Emails found: 5
+----------------------
+director@generatorvt.com
+electronics@generatorvt.com
+jewelry@generatorvt.com
+membership@generatorvt.com
+rototyping@generatorvt.com
+
+[*] Hosts found: 29
+---------------------
+api count exceeded - increase quota with membershipforum.generatorvt.com:165.227.218.125
+forum.generatorvt.com:172.67.189.178
+forum.generatorvt.com:165.227.218.125
+forum.generatorvt.com:104.21.57.80
+forum.generatorvt.com:188.114.96.2
+forum.generatorvt.com:188.114.97.2
+forum.generatorvt.com:2606:4700:3037::ac43:bdb2
+forum.generatorvt.com:172.67.189.178, 104.21.57.80
+forum.generatorvt.com:2606:4700:3037::6815:3950
+www.generatorvt.com:2a06:98c1:3121::7
+www.generatorvt.com:104.21.57.80
+www.generatorvt.com:2606:4700:3037::ac43:bdb2
+www.generatorvt.com:aspmx.l.google.com
+www.generatorvt.com:172.67.189.178
+www.generatorvt.com:2a06:98c1:3120::7
+www.generatorvt.com:generatorvt.com
+www.generatorvt.com:alt2.aspmx.l.google.com
+www.generatorvt.com:alt4.aspmx.l.google.com
+www.generatorvt.com:alt3.aspmx.l.google.com
+www.generatorvt.com:alt1.aspmx.l.google.com
+www.generatorvt.com:104.21.57.80, 172.67.189.178
+www.generatorvt.com:188.114.97.1
+www.generatorvt.com:2606:4700:3037::6815:3950
+www.generatorvt.com:188.114.96.1
