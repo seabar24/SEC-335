@@ -1,4 +1,5 @@
 # SEC-335
 > Sean's Github Repo for Ethical Hacking and Pen. Testing
 
-[Week 1 Docs and Journal Entry]()
+> Link to Journal Entries
+[Wiki](https://github.com/seabar24/SEC-335/wiki)
