@@ -3,4 +3,4 @@
 
 > Link to Journal Entries
 
-[Wiki](https://github.com/seabar24/SEC-335/wiki)
+- [Wiki](https://github.com/seabar24/SEC-335/wiki)
